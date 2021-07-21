@@ -12,10 +12,7 @@ Once the payment is done an invoice will be generated and an email will be sent 
 for the payment received. The invoice will contain the amount. 🎱🎱
 
 <!----------------------------------------------->
-
-The website hosted at 000webhost 👍👍👍 
-
-    https://donation-bhavjot.000webhostapp.com/
+https://www.youtube.com/watch?v=2rLgEIkS7Vg
     
 The Working Video is also available on Youtube 👍👍👍 
     
@@ -38,7 +35,6 @@ The Working Video is also available on Youtube 👍👍👍
 # Gateway Used 👍 :- 
 
     RazorPay
-    PayU
     
 <!----------------------------------------------->
 <!----------------------------------------------->
